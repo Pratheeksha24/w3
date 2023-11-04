@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "653b660a2023e08ec6ccd3a7"
+  },
+  "Name": "Pratheeksha",
+  "Usn": "4sf21cs111",
+  "Gender": "Female",
+  "Email": "pratheeksha.cs21@sahyadri.edu.in",
+  "Mobile": {
+    "$numberLong": "9611597761"
+  },
+  "Password": "prathi24",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653f4f1ba8b6fe4051a21974"
+  },
+  "Name": "Pratheeksha",
+  "Usn": "4sf21cs013",
+  "Gender": "Female",
+  "Email": "pratheeksha@gmail.com",
+  "Mobile": {
+    "$numberLong": "9611595437"
+  },
+  "Password": "prathi123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6540c7f1224e71d339344b15"
+  },
+  "Name": "pratheeksha",
+  "Usn": "4sf21",
+  "Gender": "F",
+  "Email": "prathi@gmail.com",
+  "Mobile": 1234567893,
+  "Password": "prathi24",
+  "__v": 0
+}]
